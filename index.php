@@ -409,8 +409,32 @@
                                         </p>
                                     </div>
                                     <div class="col-md-8">
+                                        <h3>Giới Thiệu</h3>
                                         <p>Vũ hiện là sinh viên năm 3 ngành Information Systems ở National University of Singapore. Hiền lành, vui tính, thích giúp đỡ người khác và rất có trách nhiệm trong công việc</p>
-
+                                        <p>Vũ có kinh nghiệm đi thông dịch ở các bệnh viện lớn như National University Hospital, KK Hospital, Singapore General Hospital...</p>
+                                        <h3>Giá</h3>
+                                        <table class="table table-striped table-hover text-center">
+                                            <thead>
+                                            <tr>
+                                                <th style="text-align: center;">Số Giờ</th>
+                                                <th style="text-align: center;">Giá/Giờ (SGD)</th>
+                                            </tr>
+                                            </thead>
+                                            <tbody>
+                                            <tr>
+                                                <td>1 - 2</td>
+                                                <td>30</td>
+                                            </tr>
+                                            <tr>
+                                                <td>3 - 5</td>
+                                                <td>25</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Cả Ngày</td>
+                                                <td>150</td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
                                     </div>
                                 </div>
                             </div>
